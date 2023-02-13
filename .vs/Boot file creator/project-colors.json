@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "88acc5cd-cecc-41ca-b134-edc267d64f59": {
+      "ProjectGuid": "88acc5cd-cecc-41ca-b134-edc267d64f59",
+      "DisplayName": "Boot file creator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

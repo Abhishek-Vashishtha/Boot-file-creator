@@ -1,0 +1,11 @@
+D:\Software code\Projects Software\Projects new\Boot file creator\bin\Debug\Boot file creator.exe.config
+D:\Software code\Projects Software\Projects new\Boot file creator\bin\Debug\Boot file creator.exe
+D:\Software code\Projects Software\Projects new\Boot file creator\bin\Debug\Boot file creator.pdb
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot file creator.csproj.AssemblyReference.cache
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot file creator.csproj.SuggestedBindingRedirects.cache
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot_file_creator.Bootfile_Creator.resources
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot_file_creator.Properties.Resources.resources
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot file creator.csproj.GenerateResource.cache
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot file creator.csproj.CoreCompileInputs.cache
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot file creator.exe
+D:\Software code\Projects Software\Projects new\Boot file creator\obj\Debug\Boot file creator.pdb
